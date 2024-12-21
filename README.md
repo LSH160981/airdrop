@@ -1,9 +1,9 @@
 # airdrop
 more and more
 
-# install docker
+# Titan  https://test1.titannet.io/newoverview/activationcodemanagement
 ```
-wget -qO- get.docker.com | bash
+wget -O duokai.sh https://raw.githubusercontent.com/LSH160981/Titan-Network/main/duokai.sh && chmod +x duokai.sh && ./duokai.sh -c 1 -g 21
 ```
 
 # tm  https://app.traffmonetizer.com/dashboard
@@ -16,7 +16,7 @@ docker run -d --restart=always --name tm traffmonetizer/cli_v2 start accept --to
 docker run -e RP_EMAIL=q2326426@gmail.com -e RP_API_KEY=ff00f832-de20-4fc7-9700-ff85e3fc109e -d --restart=always repocket/repocket
 ```
 
-# Titan  https://test1.titannet.io/newoverview/activationcodemanagement
+# install docker
 ```
-wget -O duokai.sh https://raw.githubusercontent.com/LSH160981/Titan-Network/main/duokai.sh && chmod +x duokai.sh && ./duokai.sh -c 1 -g 21
+wget -qO- get.docker.com | bash
 ```

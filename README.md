@@ -25,3 +25,7 @@ docker run -e RP_EMAIL=q2326426@gmail.com -e RP_API_KEY=ff00f832-de20-4fc7-9700-
 ```
 wget -qO- get.docker.com | bash
 ```
+
+```
+wget -O Oracle_active_script.sh https://raw.githubusercontent.com/LSH160981/airdrop/main/Oracle_active_script.sh && chmod +x Oracle_active_script.sh && ./Oracle_active_script.sh
+```

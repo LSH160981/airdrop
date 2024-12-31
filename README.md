@@ -31,7 +31,7 @@ wget -qO- get.docker.com | bash
 wget -O Oracle_active_script.sh https://raw.githubusercontent.com/LSH160981/airdrop/main/Oracle_active_script.sh && chmod +x Oracle_active_script.sh && ./Oracle_active_script.sh
 ```
 
-# serv00 注册 教程[https://github.com/XyHK-HUC/Serv00-Reg]
+# serv00 注册 
 ```
-wget -O serv00.sh https://raw.githubusercontent.com/LSH160981/airdrop/main/serv00.sh && chmod +x serv00.sh && ./serv00.sh
+
 ```

@@ -23,7 +23,13 @@ source venv/bin/activate
 # 安装项目所需的Python依赖
 pip install -r requirements.txt
 
+# 杀死占用8080端口的进程
+fuser -k 8080/tcp
+
+echo "--------------------本机IP地址:-------------------------"
 curl -s ipv4.ip.sb
+echo "---------------------本机IP地址:------------------------"
 
 # 运行主程序
 python3 main.py
+

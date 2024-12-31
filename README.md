@@ -33,5 +33,5 @@ wget -O Oracle_active_script.sh https://raw.githubusercontent.com/LSH160981/aird
 
 # serv00 注册 
 ```
-
+wget -O serv00.sh https://raw.githubusercontent.com/LSH160981/airdrop/main/serv00.sh && chmod +x serv00.sh && ./serv00.sh
 ```

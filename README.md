@@ -5,6 +5,10 @@ more and more
 ```
 wget -O duokai.sh https://raw.githubusercontent.com/LSH160981/Titan-Network/main/duokai.sh && chmod +x duokai.sh && ./duokai.sh -c 1 -g 21
 ```
+# Titan-4
+```
+wget -O titan4.sh https://raw.githubusercontent.com/LSH160981/airdrop/refs/heads/main/titan4.sh && chmod +x titan4.sh && ./titan4.sh
+```
 
 # tm  https://app.traffmonetizer.com/dashboard  (q2326426@gmail.com)
 ```

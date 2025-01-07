@@ -34,9 +34,9 @@ storage_path="$PWD/titan_network_4"
 mkdir -p "$storage_path"
 
 # 在后台运行 Agent 
-# nohup ./agent --working-dir="$storage_path" --server-url=https://test4-api.titannet.io --key=Rr97CDXSesaD > agent.log 2>&1 &
+nohup ./agent --working-dir="$storage_path" --server-url=https://test4-api.titannet.io --key=Rr97CDXSesaD > agent.log 2>&1 &
 
-./agent --working-dir="$storage_path" --server-url=https://test4-api.titannet.io --key=Rr97CDXSesaD
+# ./agent --working-dir="$storage_path" --server-url=https://test4-api.titannet.io --key=Rr97CDXSesaD
 
 
 

@@ -1,7 +1,7 @@
 # airdrop
 
 
-- 多和一
+- tnt3 + tm + repocket + web
 ```
 wget -O inone.sh https://raw.githubusercontent.com/LSH160981/airdrop/main/more_in_one.sh && chmod +x inone.sh && ./inone.sh
 ```

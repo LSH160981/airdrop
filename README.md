@@ -30,6 +30,11 @@ docker run -e RP_EMAIL=q2326426@gmail.com -e RP_API_KEY=ff00f832-de20-4fc7-9700-
 docker run -d --name grassminer -e GRASS_USER=xl00546 -e GRASS_PASS="KR_%p_h2,cJB&%2" -e IS_COMMUNITY=false -e ADMIN_USER=admintian -e ADMIN_PASS=adminzhen -e PROXY_ENABLE=false -p 5001:8082 --restart always aron666/aron.grassminer
 ```
 
+# earn.fm 跟TM差不多
+```
+docker run -d --restart=always -e EARNFM_TOKEN="f8978872-6d7c-4b84-9ae3-fb71383e5909" --name earnfm earnfm/earnfm-client:latest
+```
+
 # install docker
 ```
 wget -qO- get.docker.com | bash

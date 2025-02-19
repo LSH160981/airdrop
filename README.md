@@ -25,9 +25,9 @@ docker run -d --restart=always --name tm traffmonetizer/cli_v2 start accept --to
 docker run -e RP_EMAIL=q2326426@gmail.com -e RP_API_KEY=ff00f832-de20-4fc7-9700-ff85e3fc109e -d --restart=always repocket/repocket
 ```
 
-# grass  (2200635551.liao@gmail.com)
+# grass 不一定有分  (2200635551.liao@gmail.com)
 ```
-【遗弃】https://github.com/LSH160981/grass-code
+docker run -d --name grassminer -e GRASS_USER=xl00546 -e GRASS_PASS="KR_%p_h2,cJB&%2" -e IS_COMMUNITY=false -e ADMIN_USER=admintian -e ADMIN_PASS=adminzhen -e PROXY_ENABLE=false -p 5001:8082 --restart always aron666/aron.grassminer
 ```
 
 # install docker

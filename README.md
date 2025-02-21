@@ -47,3 +47,4 @@ wget -O Oracle_active_script.sh https://raw.githubusercontent.com/LSH160981/aird
 
 
 
+

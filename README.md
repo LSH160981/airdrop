@@ -3,7 +3,7 @@
 
 - tnt3 + grass + tm + repocket + earnfm
 ```
-wget -O inone.sh https://raw.githubusercontent.com/LSH160981/airdrop/refs/heads/main/more_in_one.sh?token=GHSAT0AAAAAACXQSA7NMWV42ZOMOS3WDXHKZ5YINDA && chmod +x inone.sh && ./inone.sh
+wget -O inone.sh https://raw.githubusercontent.com/LSH160981/airdrop/refs/heads/main/more_in_one.sh && chmod +x inone.sh && ./inone.sh
 ```
 
 # Titan  https://test1.titannet.io/newoverview/activationcodemanagement  (rebelbenemer@gmail.com)

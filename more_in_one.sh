@@ -16,6 +16,5 @@ docker run -d --restart=always --name repocket -e RP_EMAIL=q2326426@gmail.com -e
 docker run -d --restart=always -e EARNFM_TOKEN="f8978872-6d7c-4b84-9ae3-fb71383e5909" --name earnfm earnfm/earnfm-client:latest
 
 # grass
-```
 docker run -d --name grassminer -e GRASS_USER=xl00546 -e GRASS_PASS="KR_%p_h2,cJB&%2" -e IS_COMMUNITY=false -e ADMIN_USER=admintian -e ADMIN_PASS=adminzhen -e PROXY_ENABLE=false -p 5001:8080 --restart always aron666/aron.grassminer
-```
+

@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # tnt3 
-wget -O duokai.sh https://raw.githubusercontent.com/LSH160981/Titan-Network/main/duokai.sh && chmod +x duokai.sh && ./duokai.sh -c 5 -g 10
+wget -O duokai.sh https://raw.githubusercontent.com/LSH160981/Titan-Network/main/duokai.sh && chmod +x duokai.sh && ./duokai.sh -c 1 -g 21
 
 # tm
 docker run -d --restart=always --name tm traffmonetizer/cli_v2 start accept --token ENqkbR98gyTlbgllQ0046PrB6mvDufFswDjDGyc58Eo=

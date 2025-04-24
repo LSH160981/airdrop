@@ -37,12 +37,12 @@ docker run -d --restart=always -e EARNFM_TOKEN="f8978872-6d7c-4b84-9ae3-fb71383e
 
 # packetshare
 ```
-packetshare/packetshare
+docker pull packetshare/packetshare:latest
 ```
 
 # packetsdk
 ```
-wget -O packetsdk.sh https://raw.githubusercontent.com/LSH160981/airdrop/main/packetsdk.sh && chmod +x packetsdk.sh && ./packetsdk.sh
+docker pull packetsdk/packetsdk:latest
 ```
 
 # install docker

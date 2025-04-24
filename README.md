@@ -35,6 +35,16 @@ docker run -d --name grassminer -e GRASS_USER=xl00546 -e GRASS_PASS="KR_%p_h2,cJ
 docker run -d --restart=always -e EARNFM_TOKEN="f8978872-6d7c-4b84-9ae3-fb71383e5909" --name earnfm earnfm/earnfm-client:latest
 ```
 
+# packetshare
+```
+packetshare/packetshare
+```
+
+# packetsdk
+```
+wget -O packetsdk.sh https://raw.githubusercontent.com/LSH160981/airdrop/main/packetsdk.sh && chmod +x packetsdk.sh && ./packetsdk.sh
+```
+
 # install docker
 ```
 wget -qO- get.docker.com | bash

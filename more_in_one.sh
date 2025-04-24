@@ -2,7 +2,7 @@
 
 wget -qO- get.docker.com | bash
 
-# tnt3 packetshare  proxylite
+# tnt3 proxylite packetshare packetsdk
 wget -O duokai.sh https://raw.githubusercontent.com/LSH160981/Titan-Network/main/duokai.sh && chmod +x duokai.sh && ./duokai.sh -c 1 -g 21
 
 # tm

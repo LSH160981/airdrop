@@ -1,7 +1,7 @@
 # airdrop
 
 
-- tnt3 + grass + tm + repocket + earnfm
+- tnt3 【proxylite packetshare packetsdk】 + tm + repocket + earnfm
 ```
 wget -O inone.sh https://raw.githubusercontent.com/LSH160981/airdrop/refs/heads/main/more_in_one.sh && chmod +x inone.sh && ./inone.sh
 ```

@@ -17,7 +17,7 @@ Requires=docker.service
 
 [Service]
 Type=oneshot
-ExecStart=/usr/bin/docker restart \$(docker ps -q)
+ExecStart=/bin/bash -c "/usr/bin/docker restart \$(/usr/bin/docker ps -q)"
 
 [Install]
 WantedBy=multi-user.target

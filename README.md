@@ -42,7 +42,7 @@ docker pull packetshare/packetshare:latest
 
 # packetsdk
 ```
-docker pull packetsdk/packetsdk:latest
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/LSH160981/airdrop/refs/heads/main/packetsdk.sh)"
 ```
 
 # install docker
